@@ -1,4 +1,4 @@
-from name_funtion import get_formatted_name
+from name_function import get_formatted_name
 
 
 def test_first_last_name():
